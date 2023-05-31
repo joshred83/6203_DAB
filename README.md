@@ -22,3 +22,5 @@ Testing simultaneous changes
 
 Ryan trying to break Git Desktop
 
+Making more changes to test.
+
